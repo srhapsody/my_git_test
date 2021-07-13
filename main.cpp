@@ -3,6 +3,7 @@
 int sorted[10];
 
 int main(){
-	cout<<"HelloWorld!!";
+
+ cout<<"bye world";
     return 0;
 }
